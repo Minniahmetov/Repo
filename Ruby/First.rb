@@ -1,1 +1,3 @@
-4.times do puts "Ruby" end
+puts "Please enter your Name!"
+Name = gets.chop
+puts "Hi, #{Name}!!!"
