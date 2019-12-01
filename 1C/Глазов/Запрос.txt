@@ -1,0 +1,12 @@
+{
+  "UserName": "Admin",
+  "Password": "",
+  "procName": "GDocs",
+  "Input": 
+  [
+  {"head": "108", 
+   "original": [ "1","2","6","111\\8"], 
+   "values":   [ ["2019-09-01"],["2019-09-01"],[3],[1] ]  
+  }
+   ]
+}
